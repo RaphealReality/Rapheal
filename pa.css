@@ -1,0 +1,22 @@
+#para1{
+    font-family: "Geogia" Garamond serif;
+    font-style: normal;
+    font-size: 25px;
+    font-weight:bolder
+}
+#para2{
+    font-family: Helvetica sans-serif;
+    font-size: 49px;
+}
+#para3{
+      font-family: papyrus;
+      font-size: 25px;
+}
+#para4{
+    font-family: "lucida handwriting";
+    font-style: italic;
+    font-size: 25px;
+}
+#para5{
+    font: italic bold 50px Arial;
+}
